@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1", "WindowsGame1\WindowsGame1\WindowsGame1.csproj", "{A5994E60-66F0-41DE-9A4C-0F0742C8509F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{BF435F6E-9560-4971-B946-E89618D8CA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelLibrary", "LevelLibrary\LevelLibrary.csproj", "{5C3EE419-E4FA-4BC0-9F9D-82A1E24A7D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelContentPiplineExtension", "LevelContentPiplineExtension\LevelContentPiplineExtension.csproj", "{2FBC4059-1C2D-43BB-A646-FDDC8C2C0D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5994E60-66F0-41DE-9A4C-0F0742C8509F}.Debug|x86.ActiveCfg = Debug|x86
+		{A5994E60-66F0-41DE-9A4C-0F0742C8509F}.Debug|x86.Build.0 = Debug|x86
+		{A5994E60-66F0-41DE-9A4C-0F0742C8509F}.Release|x86.ActiveCfg = Release|x86
+		{A5994E60-66F0-41DE-9A4C-0F0742C8509F}.Release|x86.Build.0 = Release|x86
+		{BF435F6E-9560-4971-B946-E89618D8CA23}.Debug|x86.ActiveCfg = Debug|x86
+		{BF435F6E-9560-4971-B946-E89618D8CA23}.Release|x86.ActiveCfg = Release|x86
+		{5C3EE419-E4FA-4BC0-9F9D-82A1E24A7D6E}.Debug|x86.ActiveCfg = Debug|x86
+		{5C3EE419-E4FA-4BC0-9F9D-82A1E24A7D6E}.Debug|x86.Build.0 = Debug|x86
+		{5C3EE419-E4FA-4BC0-9F9D-82A1E24A7D6E}.Release|x86.ActiveCfg = Release|x86
+		{5C3EE419-E4FA-4BC0-9F9D-82A1E24A7D6E}.Release|x86.Build.0 = Release|x86
+		{2FBC4059-1C2D-43BB-A646-FDDC8C2C0D8F}.Debug|x86.ActiveCfg = Debug|x86
+		{2FBC4059-1C2D-43BB-A646-FDDC8C2C0D8F}.Debug|x86.Build.0 = Debug|x86
+		{2FBC4059-1C2D-43BB-A646-FDDC8C2C0D8F}.Release|x86.ActiveCfg = Debug|x86
+		{2FBC4059-1C2D-43BB-A646-FDDC8C2C0D8F}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

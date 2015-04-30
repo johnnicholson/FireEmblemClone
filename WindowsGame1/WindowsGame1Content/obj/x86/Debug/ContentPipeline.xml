@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bluetileset.png</Source>
+      <Name>bluetileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bluetileset.xnb</Output>
+      <Time>2012-12-04T21:04:27.127641-08:00</Time>
+    </Item>
+    <Item>
+      <Source>goodTileSheetFE.png</Source>
+      <Name>goodTileSheetFE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\goodTileSheetFE.xnb</Output>
+      <Time>2012-12-04T21:54:49.30377-08:00</Time>
+    </Item>
+    <Item>
+      <Source>FE2.jpg</Source>
+      <Name>FE2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FE2.xnb</Output>
+      <Time>2012-12-05T06:12:43.4934692-08:00</Time>
+    </Item>
+    <Item>
+      <Source>highlightB.png</Source>
+      <Name>highlightB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\highlightB.xnb</Output>
+      <Time>2012-12-06T06:07:32.1765308-08:00</Time>
+    </Item>
+    <Item>
+      <Source>highlightW.png</Source>
+      <Name>highlightW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\highlightW.xnb</Output>
+      <Time>2012-12-06T16:38:30.85818-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Title2.jpg</Source>
+      <Name>Title2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Title2.xnb</Output>
+      <Time>2012-12-06T21:39:31.3094196-08:00</Time>
+    </Item>
+    <Item>
+      <Source>redtileset.png</Source>
+      <Name>redtileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\redtileset.xnb</Output>
+      <Time>2012-12-10T16:09:41.1157726-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop.png</Source>
+      <Name>shop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shop.xnb</Output>
+      <Time>2012-12-24T13:03:04.5964315-08:00</Time>
+    </Item>
+    <Item>
+      <Source>highlightR.png</Source>
+      <Name>highlightR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\highlightR.xnb</Output>
+      <Time>2012-12-31T07:09:51.4380828-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.spritefont</Source>
+      <Name>Menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2012-12-06T05:16:02.7755273-08:00</Time>
+    </Item>
+    <Item>
+      <Source>options.spritefont</Source>
+      <Name>options</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2012-12-06T21:38:09.1889119-08:00</Time>
+    </Item>
+    <Item>
+      <Source>stats.spritefont</Source>
+      <Name>stats</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\stats.xnb</Output>
+      <Time>2012-12-17T14:39:31.9036508-08:00</Time>
+    </Item>
+    <Item>
+      <Source>level1.level</Source>
+      <Name>level1</Name>
+      <Importer>LevelImporter</Importer>
+      <Processor>LevelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\level1.xnb</Output>
+      <Time>2013-01-13T16:40:36.9910613-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\LevelLibrary\bin\x86\Debug\LevelLibrary.dll</Key>
+        <Value>2013-01-13T16:17:47.0273987-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\johnathan\Documents\Visual Studio 2010\Projects\WindowsGame1\LevelContentPiplineExtension\bin\x86\Debug\LevelContentPiplineExtension.dll</Key>
+        <Value>2013-01-13T16:20:17.3236036-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-04T06:40:48.2676688-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
